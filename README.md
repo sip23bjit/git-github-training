@@ -42,3 +42,11 @@ app. This template doesn't rely on any external dependencies or services.*
      ```
      const API_KEY = 'ENTER YOUR API';
      ```
+	 
+## Contributors	 
+| Name      | Email           | Phone  |
+| ------------- |:-------------:| -----:|
+| Md. Ashadousjaman Rony     | ashadousjaman.rony@bjitacademy.com | 0129118345|
+| Shahirul Islam Polak      | shahirul.islam@bjitacademy.com    |   0129118346 |
+| Badhan Saha| badhan.saha@bjitacademy.com     |     0129118347 |
+| Nafiur Rashid| nafiur.rashid@bjitacademy.com     |     0129118348 |
